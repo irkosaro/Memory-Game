@@ -1,0 +1,27 @@
+h1 {
+  font-size:3rem ;
+    font-family: Montserrat;
+    color: beige;
+
+}
+.letter {
+  transition: color 1000ms;
+}
+
+body {
+  background-color: black;
+}
+
+#game div {
+  border: 1px solid rgb(158, 156, 156);
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  transform-style: preserve-3d;
+  cursor: pointer;
+}
+
+ {
+
+}
